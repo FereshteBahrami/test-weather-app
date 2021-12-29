@@ -172,7 +172,15 @@ a {
   font-size: 10px;
 }
 
-.built {
+.linkedin-link {
+  text-decoration: none;
+  color: #098ea0;
+}
+.github-link {
+  text-decoration: none;
+  color: #098ea0;
+}
+.netlify-link {
   text-decoration: none;
   color: #098ea0;
 }
